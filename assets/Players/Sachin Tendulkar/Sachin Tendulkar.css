@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(65, 65, 65);
+}
+
+div {
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: 1%;
+    margin-right: 1%;
+    background-color: white;
+    font-family: Nunito;
+}
+
+img {
+    background-image: url('./indian-flag-background.jpg');
+    border: 2px solid black;
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+}
+
+caption {
+    position: absolute;
+    right: 30px;
+    bottom: 150px;
+    font-weight: 800;
+    font-size: small;
+}
+
+td {
+    text-align: justify;
+    font-weight: 500;
+    border-collapse: collapse;
+    padding-left: 5px;
+    /* padding-right: 1%; */
+}
