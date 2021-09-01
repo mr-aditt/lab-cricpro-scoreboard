@@ -97,6 +97,11 @@ td {
 	color: lightslategray;
 }
 
+a {
+	text-decoration-line:none;
+	text-decoration-color: rgb(0, 153, 255);
+}
+
 .footer{
 	position: absolute;
 	font-size: 15px;
